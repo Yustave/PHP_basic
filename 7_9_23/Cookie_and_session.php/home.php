@@ -10,7 +10,7 @@ if(isset($_REQUEST['submit'])){
         if($u_name=="Yustave" && $pass ==" 1234"){
             $_SESSION ['username'] = $u_name;
             $_SESSION ['password'] = $pass;
-            header('Location: webpage.php');          
+            header('Location:premium.php');          
         }else{
             echo "You're not valid user";
         }

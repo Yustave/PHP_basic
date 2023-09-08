@@ -1,9 +1,9 @@
 <?php
-
-if(isset($_SESSION['username'])){
-    header('Location: premiun.php'); 
+session_start();
+if(!isset($_SESSION['username'])){
+    header('Location: home.php');  
 }else{
-    header('Location: home.php'); 
+    
 }
 include 'link.php' ;
 
