@@ -1,0 +1,30 @@
+[
+    {
+        "id" : "1",
+        "name": "Yustave",
+        "creator": "0",
+        "email": "yustave@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "2",
+        "name": "yu",
+        "creator": "0",
+        "email": "yu@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "3",
+        "name": "lavan",
+        "creator": "1",
+        "email": "lavan@gmail.com",
+        "password" : "123123"
+    },
+    {
+        "id" : "4",
+        "name": "ki",
+        "creator": "1",
+        "email": "ki@gmail.com",
+        "password" : "123123"
+    }
+]

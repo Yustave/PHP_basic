@@ -1,0 +1,26 @@
+[
+    {
+        "start_id":"1",
+        "end_id":"4",
+        "subject_id":"1",
+        "creator_id":"1"
+    },
+    {
+        "start_id":"5",
+        "end_id":"8",
+        "subject_id":"2",
+        "creator_id":"1"
+    },
+    {
+        "start_id":"9",
+        "end_id": "12",
+        "subject_id":"3",
+        "creator_id":"0"
+    },
+    {
+        "start_id":"13",
+        "end_id":"16",
+        "subject_id":"4",
+        "creator_id":"0"
+    }
+]
